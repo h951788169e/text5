@@ -16,6 +16,7 @@ header{width: 100%;
     float: left;
     color: white;
     font-weight: bold;
+    padding-left: 1em;
 }
 .p2 {
     margin: 0;
@@ -171,7 +172,9 @@ header{width: 100%;
     border-color:#68cdd5;
     font-size: 1em;
     border: solid;
-
+    border-width: 2px;
+    letter-spacing: 5px;
+    justify-content: center;
 
 }
 .bu2{width: 48%;
@@ -182,6 +185,8 @@ header{width: 100%;
     font-size: 1em;
     border: solid;
     border-color:#68cdd5;
+    letter-spacing: 2px;
+    justify-content: center;
 }
 
 #container{
