@@ -175,6 +175,7 @@ header{width: 100%;
     border-width: 2px;
     letter-spacing: 5px;
     justify-content: center;
+    outline: none;
 
 }
 .bu2{width: 48%;
@@ -187,6 +188,7 @@ header{width: 100%;
     border-color:#68cdd5;
     letter-spacing: 2px;
     justify-content: center;
+    outline: none;
 }
 
 #container{
@@ -203,6 +205,6 @@ footer{width: 100%;
     bottom:0px;
     left:0px;
     display: flex;
-    align-items: center;
+    align-items:flex-end;
     justify-content: space-around;
 }
